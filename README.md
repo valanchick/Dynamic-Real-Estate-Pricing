@@ -56,6 +56,5 @@
 ## Структура репозитория
 ```text
 ├── Smart_Pricing.ipynb         # Основной Jupyter Notebook со всем кодом (EDA, Feature Engineering, ML)
-├── README.md                   # Описание проекта
-└── requirements.txt            # Список зависимостей
+└── README.md                   # Описание проекта
 ```
